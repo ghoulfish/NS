@@ -1,0 +1,33 @@
+a. the time to generate hash collision
+Running time: 2.94 s
+
+real	0m2.984s
+user	0m2.951s
+sys	0m0.004s
+
+b. the hex  content of files f1 and f2
+0000000: d949 1ce0 85cf 81fb 49ad e0fb 1b4c 833b  .I......I....L.;
+0000010: 116e 6aff aea1 dbf7 1a52 8205 6ca6 15d5  .nj......R..l...
+0000020: 2709 c2e3 51c2 2f99 eb0d d05b acc5 3537  '...Q./....[..57
+0000030: 8e87 4459 bff6 14ba 3c05 18bc a7da 6ba5  ..DY....<.....k.
+0000040: de44 5a87 6dc9 0be3 15ec 264b da84 35e4  .DZ.m.....&K..5.
+0000050: a43b 5345 ce3d fd4c 229d ef76 d05c fdae  .;SE.=.L"..v.\..
+0000060: 1587 36f2 feb2 35c7 ce95 b969 9a7c 827d  ..6...5....i.|.}
+0000070: dd00 c14d 87c5 0328 b9d3 317f 9f45 5d5a  ...M...(..1..E]Z
+
+0000000: d949 1ce0 85cf 81fb 49ad e0fb 1b4c 833b  .I......I....L.;
+0000010: 116e 6a7f aea1 dbf7 1a52 8205 6ca6 15d5  .nj......R..l...
+0000020: 2709 c2e3 51c2 2f99 eb0d d05b ac45 3637  '...Q./....[.E67
+0000030: 8e87 4459 bff6 14ba 3c05 183c a7da 6ba5  ..DY....<..<..k.
+0000040: de44 5a87 6dc9 0be3 15ec 264b da84 35e4  .DZ.m.....&K..5.
+0000050: a43b 53c5 ce3d fd4c 229d ef76 d05c fdae  .;S..=.L"..v.\..
+0000060: 1587 36f2 feb2 35c7 ce95 b969 9afc 817d  ..6...5....i...}
+0000070: dd00 c14d 87c5 0328 b9d3 31ff 9f45 5d5a  ...M...(..1..E]Z
+
+c. the sha-256 hashes of files f1 and f2
+e98581547656f7728ef4b6fa50f2d7787f7490af0b72c1b189b7a1c74bdec85d  f1
+a18453595fcbafbea15699822899b2901b39bd04b06383c8b78a84b0867d7364  f2
+
+d. the md5 hashes of files f1 and f2
+da1e74697917561bf0de155b6086c330  f1
+da1e74697917561bf0de155b6086c330  f2

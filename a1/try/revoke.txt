@@ -1,0 +1,13 @@
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1
+Comment: A revocation certificate should follow
+
+iQEmBCABAgAQBQJX5CQZCR0AYmFjayB1cAAKCRCyJueno2d6eU4eCACcdhwFGr5D
+zmsJ+4rGfsh0qIuKPtFhsGTZj6WuofSM9zzEjLeeyGJVVZz9FX964U6U8+7jvguO
+eFCj+f8L8VrMCDpGfqgrH/Qhx8T4nBqF5yKNipnr1v8PdAe9Wb+Pnr+hVvVHmgoP
+f7hVyl+yLvv551KTwYXZKxr6l03qrVaQyunAdqtn8X515WM0toqDXQITBttaYmli
+4TiN2QpHTU7Ws690RsqU/mYlAO4/1cdk21zeZisATHRHx5GtEcrszFnOGpJcQPGI
+FVr8PWSqenJC3lc61WGVYo5ZTPgswWN6zaxQ+PFWOfYpWAxhxUWVar0MX5ME4K3T
+yvrpO54Ha9n5
+=Dxjl
+-----END PGP PUBLIC KEY BLOCK-----
